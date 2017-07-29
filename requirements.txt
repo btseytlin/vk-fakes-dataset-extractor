@@ -1,0 +1,5 @@
+vk==2.0.2
+pytest=3.1.3
+sqlalchemy=1.1.12
+gspread=0.6.2
+oauth2client=4.1.2
