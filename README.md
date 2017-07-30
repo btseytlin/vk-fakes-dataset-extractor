@@ -30,6 +30,11 @@ Next, install the dependencies:
 pip install -r requirements.txt
 ```
 
+Run tests via pytest:
+```
+pytest -q tests
+```
+
 And run!
 ```
 python profile_extractor.py
